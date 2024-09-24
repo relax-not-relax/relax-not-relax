@@ -25,19 +25,12 @@ I am a full-stack developer proficient in both mobile and web applications. With
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
-
----
-
-
 ### Some projects I've worked on  🌍
-https://kinderielts.com/
-https://voluble-jelly-02c942.netlify.app/?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo&gidzl=LN4BO142A69IRmvd51KWRLDW06OA5NHZIs9IP0mISMHEDr9k3q0WQ1utL6jG42LW4MLGOpDtGnSo404aP0
-https://www.figma.com/proto/7t2hKDyA4tcvYJ8908dbhm/Kacy_project?page-id=0%3A1&node-id=11-40&node-type=frame&viewport=-7891%2C-5347%2C1.03&t=Z4EHyc9Ne34zwiHl-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=8%3A8&show-proto-sidebar=1
-https://www.figma.com/proto/fzKbLosBrqiFbexNwHcK5y/ThinkTank_Mobile?page-id=0%3A1&node-id=67-125&node-type=canvas&viewport=340%2C222%2C0.05&t=CGYtFrwuBqUJ8WR0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=15%3A21&show-proto-sidebar=1
-https://www.figma.com/proto/zzhRP11y1ykVa5K8DxfT6G/Travelicious?page-id=0%3A1&node-id=1-4&t=WKWgu4UQJY7Q1q3K-1
+- https://kinderielts.com/
+- https://voluble-jelly-02c942.netlify.app/?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo&gidzl=LN4BO142A69IRmvd51KWRLDW06OA5NHZIs9IP0mISMHEDr9k3q0WQ1utL6jG42LW4MLGOpDtGnSo404aP0
+- https://www.figma.com/proto/7t2hKDyA4tcvYJ8908dbhm/Kacy_project?page-id=0%3A1&node-id=11-40&node-type=frame&viewport=-7891%2C-5347%2C1.03&t=Z4EHyc9Ne34zwiHl-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=8%3A8&show-proto-sidebar=1
+- https://www.figma.com/proto/fzKbLosBrqiFbexNwHcK5y/ThinkTank_Mobile?page-id=0%3A1&node-id=67-125&node-type=canvas&viewport=340%2C222%2C0.05&t=CGYtFrwuBqUJ8WR0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=15%3A21&show-proto-sidebar=1
+- https://www.figma.com/proto/zzhRP11y1ykVa5K8DxfT6G/Travelicious?page-id=0%3A1&node-id=1-4&t=WKWgu4UQJY7Q1q3K-1
 
 
 <br/>
