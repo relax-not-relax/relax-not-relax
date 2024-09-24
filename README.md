@@ -2,7 +2,7 @@
 
 ---
 
-I am a full-stack developer proficient in both mobile and web applications. With a solid foundation in UX/UI design, I can deliver comprehensive solutions from concept to deployment. :wink:
+I am a full-stack developer proficient in mobile and a Front-End developer in web applications. With a solid foundation in UX/UI design, I can deliver comprehensive solutions from concept to deployment. :wink:
  
  :books: As a budding UX designer, I am fascinated by the intricate relationship between humans and technology. I am particularly interested in exploring the role of cognitive psychology in interaction design and how designers can leverage these insights to create more intuitive and enjoyable digital experiences.
 
