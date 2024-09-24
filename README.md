@@ -31,8 +31,8 @@ I am a full-stack developer proficient in mobile and a Front-End developer in we
 - https://figmashort.link/NREAFa
 - https://figmashort.link/ntmMrb
 - https://figmashort.link/xXzcbC
-
-<br/>
-
-
+  
 ---
+
+### Contact me
+ 📞 +84 837021033
