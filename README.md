@@ -27,7 +27,7 @@ I am a full-stack developer proficient in mobile and a Front-End developer in we
 
 ### Some projects I've worked on  🌍
 - <a href="https://kinderielts.com/" target="_blank" rel="noopener noreferrer">Kinder Ielts</a> 
-- <a href="https://bit.ly/nhan-tuong-hoc-steven" target="_blank" rel="noopener noreferrer">Nhân tướng học Steven</a> 
+- <a href="https://www.nhantuonghocsteven.com" target="_blank" rel="noopener noreferrer">Nhân tướng học Steven</a> 
 - <a href="https://figmashort.link/NREAFa" target="_blank" rel="noopener noreferrer">Mate</a> 
 - <a href="https://figmashort.link/ntmMrb" target="_blank" rel="noopener noreferrer">ThinkTank</a>
 - <a href="https://figmashort.link/xXzcbC" target="_blank" rel="noopener noreferrer">Travelicious</a>
